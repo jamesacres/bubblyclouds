@@ -15,12 +15,12 @@ export default function Privacy() {
       <p className="my-8">Privacy Policy</p>
       <p className="my-8">Last Updated: 2018-05-20</p>
       <p className="my-8">
-        'We' or 'Bubbly Clouds' refers to James Acres and the collection of
-        services personally offered to you by James Acres from
+        &#39;We&#39; or &#39;Bubbly Clouds&#39; refers to James Acres and the
+        collection of services personally offered to you by James Acres from
         bubblyclouds.co.uk or bubblyclouds.com
       </p>
       <p className="my-8">
-        'You' refers to any user(s) and customer(s) of our services
+        &#39;You&#39; refers to any user(s) and customer(s) of our services
       </p>
       <p className="my-8">
         URLs in the privacy policy are correct at the time of writing.
@@ -53,11 +53,11 @@ export default function Privacy() {
         collect payment and keep you notified of renewals etc.
       </p>
       <p className="my-8">
-        We are only data controllers of our own customers' data. Bubbly Clouds
-        has the role of data processor when our customers use the products we
-        provide to them to run their own services. Our customers are data
-        controllers when using our products to provide their own services to
-        their own users.
+        We are only data controllers of our own customers&#39; data. Bubbly
+        Clouds has the role of data processor when our customers use the
+        products we provide to them to run their own services. Our customers are
+        data controllers when using our products to provide their own services
+        to their own users.
       </p>
       <p className="my-8">
         Bubbly Clouds will always provide info on, and enforce our{' '}
@@ -72,12 +72,13 @@ export default function Privacy() {
       </p>
       <p className="my-8">
         Within 72 hours of becoming aware of a personal data breach we will
-        notify the UK's ICO and if this is of high risk of adversely affecting
-        individuals’ rights and freedoms we will notify those individuals.
+        notify the UK&#39;s ICO and if this is of high risk of adversely
+        affecting individuals’ rights and freedoms we will notify those
+        individuals.
       </p>
       <p className="my-8">
         If one of our sub-processors notify us about a breach that impacts our
-        customer's data we will notify them.
+        customer&#39;s data we will notify them.
       </p>
       <h5>Customer Responsibilities</h5>
       <p className="my-8">
@@ -97,7 +98,7 @@ export default function Privacy() {
         to detect suspicious activity, but as you are in control of your own
         application setup it is up to you to install your own monitoring to
         prevent and detect breaches. We can advise you how to do this, but we
-        can't do this for you as the services we offer are unmanaged.
+        can&#39;t do this for you as the services we offer are unmanaged.
       </p>
       <p className="my-8">
         As a customer of Bubbly Clouds it is your responsibility to comply with
@@ -349,8 +350,8 @@ export default function Privacy() {
         <strong>Customer Data</strong> - on termination of contract, when you
         become an inactive customer with no active products or invoices, we
         retain customer data in our web based systems until the following tax
-        year's tax return is completed by us unless it is requested for us to
-        delete this sooner.
+        year&#39;s tax return is completed by us unless it is requested for us
+        to delete this sooner.
       </p>
       <p className="my-8">
         <strong>Backups of data</strong> - We keep backups over the past year to
@@ -429,10 +430,10 @@ export default function Privacy() {
         service from us.
       </p>
       <p className="my-8">
-        Our system administrator's initial login has limited permissions which
-        requires escalation to become root. Administration is only done on our
-        servers from devices with hard drive encryption which are connected to
-        secure private networks.
+        Our system administrator&#39;s initial login has limited permissions
+        which requires escalation to become root. Administration is only done on
+        our servers from devices with hard drive encryption which are connected
+        to secure private networks.
       </p>
       <p className="my-8">
         We have a strong understanding of Information Security. We use web
@@ -487,9 +488,9 @@ export default function Privacy() {
         with other companies and organizations for the purposes of fraud
         protection. In particular, Bubbly Clouds may release the information it
         collects to third parties when we believe that it is appropriate to
-        comply with the law, to enforce its' legal rights, to protect the rights
-        and safety of others, or to assist with industry efforts to control
-        fraud, spam or other undesirable conduct.
+        comply with the law, to enforce its&#39; legal rights, to protect the
+        rights and safety of others, or to assist with industry efforts to
+        control fraud, spam or other undesirable conduct.
       </p>
       <hr className="my-8" />
       <h3>Cookies</h3>
@@ -535,7 +536,7 @@ export default function Privacy() {
         you on its systems.
       </p>
       <hr className="my-8" />
-      <h3>Children's Online Privacy Protection</h3>
+      <h3>Children&#39;s Online Privacy Protection</h3>
       <p className="my-8">
         If you are under thirteen (13) years of age you must not sign up for any
         Bubbly Clouds products.

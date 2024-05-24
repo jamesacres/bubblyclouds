@@ -14,12 +14,12 @@ export default function Terms() {
       <p className="my-8">Last Updated: 2018-05-20</p>
 
       <p className="my-8">
-        'We' or 'Bubbly Clouds' refers to James Acres and the collection of
-        services personally offered to you by James Acres from
+        &#39;We&#39; or &#39;Bubbly Clouds&#39; refers to James Acres and the
+        collection of services personally offered to you by James Acres from
         bubblyclouds.co.uk or bubblyclouds.com
       </p>
       <p className="my-8">
-        'You' refers to any user(s) and customer(s) of our services
+        &#39;You&#39; refers to any user(s) and customer(s) of our services
       </p>
 
       <p className="my-8">
@@ -93,11 +93,11 @@ export default function Terms() {
           associated with your account.
         </li>
         <li className="my-8">
-          PayPal and Stripe payments are subject to PayPal and Stripe's terms
-          and conditions of service, all data sent through PayPal or Stripe's
-          servers is independent of Bubbly Clouds and therefore Bubbly Clouds
-          does not process any payments or card details on its own servers and
-          is not liable for payment problems on PayPal or Stripe.
+          PayPal and Stripe payments are subject to PayPal and Stripe&#39;s
+          terms and conditions of service, all data sent through PayPal or
+          Stripe&#39;s servers is independent of Bubbly Clouds and therefore
+          Bubbly Clouds does not process any payments or card details on its own
+          servers and is not liable for payment problems on PayPal or Stripe.
         </li>
         <li className="my-8">
           If a chargeback is made Bubbly Clouds shall suspend all services until
@@ -125,9 +125,9 @@ export default function Terms() {
         <li className="my-8">
           If providing personal data as part of purchasing domains, SSL or other
           services from our partners it is your responsibility to check the data
-          controller's privacy policy and plan details to see whether personal
-          information will be shown as part of the WHOIS system or Certificate
-          subject details.
+          controller&#39;s privacy policy and plan details to see whether
+          personal information will be shown as part of the WHOIS system or
+          Certificate subject details.
         </li>
         <li className="my-8">
           Bubbly Cloud’s <Link href="privacy">Privacy Policy</Link> explains how
@@ -143,8 +143,8 @@ export default function Terms() {
         <li className="my-8">
           Bubbly Clouds reserves the right to refuse access to our services if
           we are not happy with your use of our services, if our terms of
-          service, one of our partner's terms of service, or UK legislation is
-          breached, if we receive a request for us to refuse your access.
+          service, one of our partner&#39;s terms of service, or UK legislation
+          is breached, if we receive a request for us to refuse your access.
         </li>
         <li className="my-8">
           If you are expecting high traffic or have a need to carry out high
@@ -197,7 +197,7 @@ export default function Terms() {
         <li className="my-8">
           We aim to keep our service uptime above 99%, however you agree our
           uptime may range anywhere between 0% and 100%, our services are
-          provided "as is" with no warranty.
+          provided &#34;as is&#34; with no warranty.
         </li>
         <li className="my-8">
           We aim to contact customers if we are made aware of anything such as
@@ -234,10 +234,10 @@ export default function Terms() {
         </li>
         <li className="my-8">
           We perform a virus and malware scan on all files stored on our servers
-          daily. It is the responsibility of customers to ensure no virus' are
-          stored on their partition of the server. If a virus is found it should
-          be reported to Bubbly Clouds. If we find a virus it may be deleted
-          automatically without notification.
+          daily. It is the responsibility of customers to ensure no virus&#39;
+          are stored on their partition of the server. If a virus is found it
+          should be reported to Bubbly Clouds. If we find a virus it may be
+          deleted automatically without notification.
         </li>
         <li className="my-8">
           All data stored by you or your users on our servers is your property
@@ -275,8 +275,8 @@ export default function Terms() {
         </li>
         .
         <li className="my-8">
-          'Acts of God' are out of our control and we cannot be held responsible
-          for their effect.
+          &#39;Acts of God&#39; are out of our control and we cannot be held
+          responsible for their effect.
         </li>
         <li className="my-8">
           We will comply with Government and third party requests and cannot be
