@@ -96,10 +96,9 @@ export default function Privacy() {
         way to how we do this for you as a Bubbly Clouds customer.
       </p>
       <p className="my-8">
-        You are in control of your own application setup it is up to you to
-        install your own monitoring to prevent and detect breaches. We can
-        advise you how to do this, but we can&#39;t do this for you as the
-        services we offer are unmanaged.
+        You are in control of who you share your data with while using our
+        services. You may choose to have a session with other users and choose
+        to share your name and other profile information with them for example.
       </p>
       <p className="my-8">
         As a customer of Bubbly Clouds it is your responsibility to comply with

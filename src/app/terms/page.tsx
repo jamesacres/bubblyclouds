@@ -16,7 +16,8 @@ export default function Terms() {
       <p className="my-8">
         &#39;We&#39; or &#39;Bubbly Clouds&#39; refers to James Acres and the
         collection of services personally offered to you by James Acres from
-        bubblyclouds.co.uk or bubblyclouds.com
+        bubblyclouds.co.uk or bubblyclouds.com or via one of our domains which
+        allow you to sign in with your Bubbly Clouds account.
       </p>
       <p className="my-8">
         &#39;You&#39; refers to any user(s) and customer(s) of our services
