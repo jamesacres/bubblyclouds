@@ -11,7 +11,7 @@ export default function Terms() {
       </p>
 
       <p className="my-8">Terms and Conditions of Service</p>
-      <p className="my-8">Last Updated: 2018-05-20</p>
+      <p className="my-8">Last Updated: 2024-05-25</p>
 
       <p className="my-8">
         &#39;We&#39; or &#39;Bubbly Clouds&#39; refers to James Acres and the
@@ -38,25 +38,25 @@ export default function Terms() {
       <h3 className="mt-4 text-lg">Contract</h3>
       <ul className="my-8 list-inside	list-disc">
         <li className="my-8">
-          Our services are offered to you as a 12 month, 6 month or 1 month
-          contract at the time you place your order.
+          By signing in or using any Bubbly Clouds services you enter a contract
+          to follow these terms regarding your use of the service.
         </li>
         <li className="my-8">
-          Your contract will automatically renew at the end of the time period
-          unless terminated.
+          If you enter a subscription using one of the services, it will
+          automatically renew at the end of the time period unless terminated.
         </li>
         <li className="my-8">
-          If a contract is terminated the remaining length of time shall not be
-          refunded.
+          If a subscription is terminated the remaining length of time shall not
+          be refunded.
         </li>
         <li className="my-8">
-          Contracts can be terminated by submitting a support ticket to Bubbly
-          Clouds, this must be submitted at least 7 days before the end of your
-          contract.
+          Accounts can be terminated by submitting a support request to
+          support@bubblyclouds.com, this must be submitted at least 7 days
+          before the end of your contract.
         </li>
         <li className="my-8">
-          Bubbly Clouds reserves the right to suspend and cancel your contract
-          if any of our Terms and Conditions of Service are breached, if any
+          Bubbly Clouds reserves the right to suspend and cancel your account if
+          any of our Terms and Conditions of Service are breached, if any
           element of UK legislation is breached, if we receive a request to
           suspend your account due to copyright infringement, or if any
           questionable content or activity is found on your account.
@@ -66,9 +66,13 @@ export default function Terms() {
       <h3 className="mt-4 text-lg">Payment</h3>
       <ul className="my-8 list-inside	list-disc">
         <li className="my-8">
-          Your payment shall be in UK Pounds Sterling transferred via a Bank
+          Many of our services are available for free, however we may request
+          payment for premium features.
+        </li>
+        <li className="my-8">
+          Any payments shall be in UK Pounds Sterling transferred via a Bank
           transfer, PayPal or Credit/Debit card payment via Stripe every time
-          you renew your contract with us.
+          you pay for an addon or renew your subscription with us.
         </li>
         <li className="my-8">
           If your payment is declined by your bank, card holder, Stripe or
@@ -120,21 +124,22 @@ export default function Terms() {
         </li>
         <li className="my-8">
           You are required to have a unique and strong password protecting each
-          aspect of our services.
+          aspect of our services. If you sign in with a third party such as
+          Google you must also keep this account secure.
         </li>
         <li className="my-8">
           If providing personal data as part of purchasing domains, SSL or other
           services from our partners it is your responsibility to check the data
           controller&#39;s privacy policy and plan details to see whether
           personal information will be shown as part of the WHOIS system or
-          Certificate subject details.
+          Certificate subject details or elsewhere.
         </li>
         <li className="my-8">
           Bubbly Cloud’s <Link href="privacy">Privacy Policy</Link> explains how
           we treat your personal data and protect your privacy when you use our
           Services. By using our Services, you agree that Bubbly Clouds can use
           such data in accordance with our{' '}
-          <Link href="privacy">Privacy Policy</Link>
+          <Link href="privacy">Privacy Policy</Link>.
         </li>
       </ul>
 
@@ -147,9 +152,10 @@ export default function Terms() {
           is breached, if we receive a request for us to refuse your access.
         </li>
         <li className="my-8">
-          If you are expecting high traffic or have a need to carry out high
-          amounts of processing at any time you must notify Bubbly Clouds else
-          we may be forced to suspend your services.
+          If you are expecting to send a high amount of traffic or have a need
+          to carry out high amounts of processing at any time using our services
+          you must notify support@bubblyclouds.com else we may be forced to
+          suspend your services.
         </li>
         <li className="my-8">
           We support overuse where you may use more than what you are paying
@@ -161,19 +167,18 @@ export default function Terms() {
           suspend your services.
         </li>
         <li className="my-8">
-          We do not permit you to sell our web hosting services onto others
-          unless you purchase our reseller services and offer your own web
-          hosting services. Only the primary customer is permitted to use our
-          services, this includes accessing your web hosting cPanel.
+          We do not permit you to sell our services onto others unless you
+          purchase our reseller services. Only the primary account holder is
+          permitted to use our services, this includes accessing your account.
         </li>
         <li className="my-8">
           You must not take part in Unsolicited Commercial E-mail intentionally
-          or unintentionally, if this takes places we will suspend your ability
-          to send mail until the issue is resolved.
+          or unintentionally, if this takes places we will suspend your
+          services.
         </li>
         <li className="my-8">
-          You must not host any material for which you do not have the right to
-          host.
+          You must not upload any material for which you do not have the right
+          to upload.
         </li>
         <li className="my-8">
           You must not use our services for file sharing or peer-to-peer or any
@@ -200,7 +205,7 @@ export default function Terms() {
           provided &#34;as is&#34; with no warranty.
         </li>
         <li className="my-8">
-          We aim to contact customers if we are made aware of anything such as
+          We aim to contact users if we are made aware of anything such as
           scheduled maintenance which may affect uptime, however this is not
           always possible and such events are often unpredictable.
         </li>
@@ -218,26 +223,20 @@ export default function Terms() {
           services are provided on a personal level and you accept that risk.
         </li>
         <li className="my-8">
-          We will backup all data every night for disaster recovery purposes.
-          The backup from the previous night will also be made available in your
-          personal control panel at no cost to you. Backups from previous weeks
-          or months are available on request for an administration fee of £12 to
-          fetch it from our remote storage. It is your own responsibility to
-          download copies of our backups and store them in a remote location
-          inaccessible by our servers, you must not rely on us for historic
-          backups as your request for them may not be fulfilled in the event of
-          a disaster.
+          We strive to backup data so we can recover from disasters, however we
+          cannot guarantee to be able to recover. It is your own responsibility
+          to store a copy of any data you send to us so you can recover it in
+          case of disaster, you must not rely on our own backups.
         </li>
         <li className="my-8">
           We cannot be held liable for any data loss, backups are entirely your
           responsibility.
         </li>
         <li className="my-8">
-          We perform a virus and malware scan on all files stored on our servers
-          daily. It is the responsibility of customers to ensure no virus&#39;
-          are stored on their partition of the server. If a virus is found it
-          should be reported to Bubbly Clouds. If we find a virus it may be
-          deleted automatically without notification.
+          It is the responsibility of users to ensure no viruses are uploaded by
+          them to our services. If a virus is found it should be reported to
+          Bubbly Clouds. If we find a virus it may be deleted automatically
+          without notification.
         </li>
         <li className="my-8">
           All data stored by you or your users on our servers is your property
@@ -245,19 +244,10 @@ export default function Terms() {
           to any files you or your users upload to our servers for processing.
         </li>
         <li className="my-8">
-          We operate a firewall restricting access only to our public services,
-          if you require additional ports to be opened a support ticket must be
-          opened. To protect our services and customers, our firewall
-          automatically blocks IP addresses if suspicious activity (such as
-          multiple invalid logins) is detected. This can sometimes trigger false
-          positives which can lock out legitimate users, you must email us to
-          unblock and whitelist your IP address should this happen.
-        </li>
-        <li className="my-8">
           We aim to keep our software secure and up to date, we in return expect
-          your web applications to also be secure and up to date. If we detect
-          out of date software we expect you to take action or ask us for
-          assistance to prevent your hosting services being hacked to host
+          your use of our services to also be secure and up to date. If we
+          detect out of date software we expect you to take action or ask us for
+          assistance to prevent your use of our services being hacked to host
           phishing content or send spam.
         </li>
         <li className="my-8">
@@ -273,7 +263,6 @@ export default function Terms() {
           It is your own responsibility to ensure your own equipment is
           operating correctly, this includes the network link between you and us
         </li>
-        .
         <li className="my-8">
           &#39;Acts of God&#39; are out of our control and we cannot be held
           responsible for their effect.
@@ -283,20 +272,14 @@ export default function Terms() {
           held responsible for disruption and losses in doing so.
         </li>
         <li className="my-8">
-          We allow you to use your own SSL certificates but the ones provided
-          only covers our own domains unless you opt for a plan which includes
-          an SSL certificate.
-        </li>
-        <li className="my-8">
           Your billing control panel and hosting control panel are both to be
           accessed securely using https.
         </li>
         <li className="my-8">
-          We scan all email sent to the server and mark any spam, we may
-          sometimes delete junk emails or flag them as junk. It is possible for
-          our system to miss spam, or to mark legitimate email as spam by
-          mistake, you must report this to us when this happens so it can be
-          corrected.
+          We scan all email sent to us and mark any spam, we may sometimes
+          delete junk emails or flag them as junk. It is possible for our system
+          to miss spam, or to mark legitimate email as spam by mistake, you must
+          report this to us when this happens so it can be corrected.
         </li>
         <li className="my-8">
           We scan all email sent to the server and delete any attachments
@@ -310,7 +293,7 @@ export default function Terms() {
       <h3 className="mt-4 text-lg">Support</h3>
       <ul className="my-8 list-inside	list-disc">
         <li className="my-8">
-          All support requests should be made via our Ticketing System. All
+          All support requests should be made via support@bubblyclouds.com. All
           other requests may be ignored.
         </li>
         <li className="my-8">
@@ -325,8 +308,8 @@ export default function Terms() {
           or more to answer during busier months.
         </li>
         <li className="my-8">
-          We do not provide phone support, all support must be initiated via our
-          Ticketing System.
+          We do not provide phone support, all support must be initiated via
+          email.
         </li>
       </ul>
 
@@ -354,10 +337,9 @@ export default function Terms() {
         </li>
         <li className="my-8">
           You can request to be sent an export of the personal information we
-          hold about you in a secure portable format. We provide a self service
-          portal and cPanel for you to perform your own exports, anything not
-          provided for export from the portal or cPanel can be requested by
-          opening a support ticket.
+          hold about you in a secure portable format. We try to provide self
+          service areas for you to perform your own exports, anything not
+          provided can be requested by emailing support@bubblyclouds.com.
         </li>
         <li className="my-8">
           If you request information which is unfounded or excessive we may
@@ -373,15 +355,14 @@ export default function Terms() {
       <h3 className="mt-4 text-lg">Refunds</h3>
       <ul className="my-8 list-inside	list-disc">
         <li className="my-8">
-          We offer a 30-Day Money Back Guarantee Period following your first
-          order with us. You are free to terminate your order for web hosting
-          services within this period. A full refund will be issued for the web
-          hosting charges paid by the customer.
+          If you make a payment to use one of our services, we offer a 30-Day
+          Money Back Guarantee Period following your first order with us. You
+          are free to terminate your order within this period. A full refund
+          will be issued for charges paid by the customer.
         </li>
         <li className="my-8">
-          Addons including Domains, SSL, IP addresses or any other third party
-          services will not be refunded under any circumstances. These are
-          strictly non-refundable.
+          Addons provided by a third party service will not be refunded under
+          any circumstances. These are strictly non-refundable.
         </li>
         <li className="my-8">
           Domain Registration or Domain Transfer Charges will not be refunded

@@ -1,9 +1,10 @@
-import Link from 'next/link';
-
 export default function Home() {
   return (
     <div className="container mx-auto my-10 max-w-xl">
-      <p>Welcome to Bubbly Clouds. We power a range of web services.</p>
+      <p>
+        Welcome to Bubbly Clouds. By signing in you can access a range of web
+        services created by <a href="https://jamesacres.co.uk">James Acres</a>.
+      </p>
 
       <h2 className="mt-4 text-lg">Services</h2>
       <div className="my-12 grid w-full max-w-5xl grid-cols-1 text-center">
