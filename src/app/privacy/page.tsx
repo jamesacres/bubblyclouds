@@ -10,10 +10,10 @@ export default function Privacy() {
       </p>
       <p className="my-8">
         You can contact our Data Protection Officer, James Acres, at any time
-        about the details in this privacy policy.
+        via support@bubblyclouds.com about the details in this privacy policy.
       </p>
       <p className="my-8">Privacy Policy</p>
-      <p className="my-8">Last Updated: 2018-05-20</p>
+      <p className="my-8">Last Updated: 2024-05-25</p>
       <p className="my-8">
         &#39;We&#39; or &#39;Bubbly Clouds&#39; refers to James Acres and the
         collection of services personally offered to you by James Acres from
@@ -34,7 +34,7 @@ export default function Privacy() {
       </p>
       <p className="my-8">
         It is also designed to help you understand your own role as a data
-        controller when you decide to run your own services using our products.
+        controller when you decide to run your own services using our services.
       </p>
       <p className="my-8">
         If you are a visitor and not a customer of ours, providing your personal
@@ -46,17 +46,18 @@ export default function Privacy() {
       <h3>Roles and Responsibilities</h3>
       <h5>Bubbly Clouds Responsibilities</h5>
       <p className="my-8">
-        When placing an order with us you enter a contract with us to become a
-        customer of ours. In this scenario Bubbly Clouds has the legal basis to
-        become a controller of the necessary personal data we are required to
-        collect from you in order to provide you with the service you ordered,
-        collect payment and keep you notified of renewals etc.
+        When signing in or making a payment for one of our services you enter a
+        contract with us to become an account holder or customer of ours. In
+        this scenario Bubbly Clouds has the legal basis to become a controller
+        of the necessary personal data we are required to collect from you in
+        order to provide you with the service you accessed, collect payment and
+        keep you notified of renewals etc.
       </p>
       <p className="my-8">
         We are only data controllers of our own customers&#39; data. Bubbly
         Clouds has the role of data processor when our customers use the
-        products we provide to them to run their own services. Our customers are
-        data controllers when using our products to provide their own services
+        products we provide to them for their own purposes. Our customers are
+        data controllers when using our services to provide their own services
         to their own users.
       </p>
       <p className="my-8">
@@ -82,23 +83,23 @@ export default function Privacy() {
       </p>
       <h5>Customer Responsibilities</h5>
       <p className="my-8">
-        When using our web hosting products. Bubbly Clouds customers are data
-        controllers and Bubbly Clouds is a data processor in this scenario.
+        When using our services via a customer of ours. The Bubbly Clouds
+        customer is the data controller and Bubbly Clouds is the data processor
+        in this scenario.
       </p>
       <p className="my-8">
         Our products can be used by our customers to store personal information
-        about their own customers and users. As a customer of ours it is your
-        responsibility to decide what data you expose to us. It is your
+        about their own customers and users. As a customer or user of ours it is
+        your responsibility to decide what data you expose to us. It is your
         responsibility to provide your users with the necessary means to
         retrieve, review, correct, or remove their personal data in a similar
         way to how we do this for you as a Bubbly Clouds customer.
       </p>
       <p className="my-8">
-        Bubbly Clouds provides you with tools for you to monitor web server logs
-        to detect suspicious activity, but as you are in control of your own
-        application setup it is up to you to install your own monitoring to
-        prevent and detect breaches. We can advise you how to do this, but we
-        can&#39;t do this for you as the services we offer are unmanaged.
+        You are in control of your own application setup it is up to you to
+        install your own monitoring to prevent and detect breaches. We can
+        advise you how to do this, but we can&#39;t do this for you as the
+        services we offer are unmanaged.
       </p>
       <p className="my-8">
         As a customer of Bubbly Clouds it is your responsibility to comply with
@@ -152,18 +153,19 @@ export default function Privacy() {
                 come into contact with these details.
               </p>
               <p className="my-8">
-                Financial information provided by you to order our products will
-                be collected, stored and processed by Stripe, PayPal, Barclays
-                and any other third party payment service providers as
-                designated by Bubbly Clouds. Each of these providers provides
-                their own privacy policy to you and Bubbly Clouds has legal
-                agreements with each sub-processor it uses.
+                Financial information provided by you to access our services
+                will be collected, stored and processed by Stripe, PayPal and
+                any other third party payment service providers as designated by
+                Bubbly Clouds. Each of these providers provides their own
+                privacy policy to you and Bubbly Clouds has legal agreements
+                with each sub-processor it uses.
               </p>
             </td>
             <td>
               <p className="my-8">
-                This is for purposes of completing your purchase with us so we
-                can provide you with the service you ordered from us.
+                This is for purposes of creating your account or completing your
+                purchase with us so we can provide you with the service you
+                requested from us.
               </p>
               <p className="my-8">
                 As part of our <Link href="terms">Terms of Use</Link> we also
@@ -172,9 +174,7 @@ export default function Privacy() {
                 purpose to fulfil the contract.
               </p>
               <p className="my-8">
-                We will keep records of all our contact with you via email and
-                via the support ticketing system. You can view our historical
-                emails in your client area.
+                We will keep records of all our contact with you via email.
               </p>
             </td>
             <td>
@@ -227,19 +227,16 @@ export default function Privacy() {
                 data.
               </p>
               <p className="my-8">
-                <strong>For support purposes</strong>, when you request we
-                support you give permission for us to view your data e.g. for
-                diagnosing email delivery issues. We can impersonate your cPanel
-                or portal login when you request us to support you. We
-                automatically scan your data for{' '}
-                <strong>security and legal</strong> issues.
+                <strong>For support purposes</strong>, when you request support
+                you give permission for us to view your data. We scan your data
+                for <strong>security and legal</strong> issues.
               </p>
             </td>
             <td>
               <p className="my-8">
-                As part of your <strong>contract</strong> with you we agree to
-                provide support, security scanning and legal compliance to you
-                in our <Link href="terms">Terms of Use</Link>.
+                As part of your <strong>contract</strong> we agree to provide
+                the support described in our{' '}
+                <Link href="terms">Terms of Use</Link>.
               </p>
             </td>
           </tr>
@@ -253,8 +250,8 @@ export default function Privacy() {
             </td>
             <td>
               <p className="my-8">
-                We require to collect payment from you in order to provide you
-                with the product you ordered.
+                We sometimes require to collect payment from you in order to
+                provide you with the product you ordered.
               </p>
               <p className="my-8">
                 We require to store transaction logs for us to legally complete
@@ -284,8 +281,8 @@ export default function Privacy() {
                 information which identifies your machine.
               </p>
               <p className="my-8">
-                Logging includes client area access, intrusion prevention and
-                web application firewall, access logs, error logs.
+                Logging includes service access, intrusion prevention and web
+                application firewall, access logs, error logs.
               </p>
             </td>
             <td>
@@ -296,14 +293,15 @@ export default function Privacy() {
                 breaches and keep a record of them if they were to occur.
               </p>
               <p className="my-8">
-                When someone visits our websites we use a third party service,
-                Google Analytics, to collect standard internet log information
-                and details of visitor behaviour patterns. We do this to find
-                out things such as the number of visitors to the various parts
-                of the site. This information is only processed in a way which
-                does not identify anyone. We do not make, and do not allow
-                Google to make, any attempt to find out the identities of those
-                visiting our website. Our use of Google Analytics makes use of{' '}
+                When someone visits our websites we sometimes use a third party
+                service, Google Analytics, to collect standard internet log
+                information and details of visitor behaviour patterns. We do
+                this to find out things such as the number of visitors to the
+                various parts of the site. This information is only processed in
+                a way which does not identify anyone. We do not make, and do not
+                allow Google to make, any attempt to find out the identities of
+                those visiting our website. Our use of Google Analytics makes
+                use of{' '}
                 <a href="https://support.google.com/analytics/answer/2763052">
                   IP Anonymization
                 </a>{' '}
@@ -330,15 +328,15 @@ export default function Privacy() {
         As part of your contract with us we will contact you regarding updates
         to the services you have with us. This includes renewal and billing
         reminders, notification of maintenance and security issues, updates
-        about changes to your products.
+        about changes to the services we offer you.
       </p>
       <p className="my-8">
-        If you open a support ticket or email us we will contact you regarding
-        this and notify you when the ticket you opened is closed.
+        If you email us we will contact you regarding this and notify you when
+        the issue you opened is closed.
       </p>
       <p className="my-8">
-        All our billing is paperless, so you will receive invoices and receipts
-        via email.
+        All our billing is paperless, so you will receive any invoices and
+        receipts via email.
       </p>
       <p className="my-8">
         You will not receive updates and marketing about products you have not
@@ -348,22 +346,22 @@ export default function Privacy() {
       <h3>Data Retention Policy</h3>
       <p className="my-8">
         <strong>Customer Data</strong> - on termination of contract, when you
-        become an inactive customer with no active products or invoices, we
-        retain customer data in our web based systems until the following tax
-        year&#39;s tax return is completed by us unless it is requested for us
-        to delete this sooner.
+        become an inactive customer with no active services, products or
+        invoices, we retain customer data in our web based systems until the
+        following tax year&#39;s tax return is completed by us unless it is
+        requested for us to delete this sooner.
       </p>
       <p className="my-8">
-        <strong>Backups of data</strong> - We keep backups over the past year to
-        help us to restore any of your services in the event of a disaster
-        caused by you or by us. We can erase individual accounts from our
-        historical backups on request if they need to be erased sooner.
+        <strong>Backups of data</strong> - We keep backups to help us to restore
+        any of your services in the event of a disaster caused by you or by us.
+        We can erase individual accounts from our historical backups on request
+        if they need to be erased sooner.
       </p>
       <p className="my-8">
-        <strong>Analytics and logs of activity</strong> - We keep logs for at
-        least the past year to help us comply with our legal obligations to
-        prevent data breaches and to monitor usage. We cannot erase logs on
-        request and by using our services you agree your usage will be logged.
+        <strong>Analytics and logs of activity</strong> - We keep logs to help
+        us comply with our legal obligations to prevent data breaches and to
+        monitor usage. We cannot erase logs on request and by using our services
+        you agree your usage will be logged.
       </p>
       <p className="my-8">
         <strong>Financial Records</strong> - We must legally keep financial
@@ -376,16 +374,16 @@ export default function Privacy() {
       <h3>Managing Your Data</h3>
       <p className="my-8">
         <strong>Access and Rectify</strong> - You can access and rectify the
-        majority of your personal information from our self-service client area.
-        Anything you cannot see there you can contact us and we will be able to
-        update records on your behalf and provide you with an export.
+        majority of your personal information by using our services. Anything
+        you cannot see there you can contact us and we will be able to update
+        records on your behalf and provide you with an export.
       </p>
       <p className="my-8">
         <strong>Export and Data Portability</strong> - We can generate a report
-        to provide your account data in JSON format on request. Our Portal and
-        cPanel also allow you to export most of your own data without needing to
-        ask us. We can provide tools to help you export all data to switch
-        providers on request.
+        to provide your account data in JSON format on request. Our services may
+        allow you to export your own data without needing to ask us. We can
+        provide tools to help you export all data to switch providers on
+        request.
       </p>
       <p className="my-8">
         <strong>Erasure</strong> - We will respond to all requests to erase data
@@ -399,41 +397,25 @@ export default function Privacy() {
       <hr className="my-8" />
       <h3>Security and Integrity of your Personal Data</h3>
       <p className="my-8">
-        You will keep your data up to date via your self-service portal. If we
-        learn of any changes we will update your account accordingly to keep
-        your details up to date.
+        You will keep your data up to date by using our services or contacting
+        us. If we learn of any changes we will update your account accordingly
+        to keep your details up to date.
       </p>
       <p className="my-8">
         We will never request your password, you should never pass on your
         password to anybody, only you are permitted to sign into your Bubbly
-        Clouds services with your password.
+        Clouds services with your password or third party identity provider.
       </p>
       <p className="my-8">
-        When signing up you will be assigned a password for setup purposes.
-        Bubbly Clouds will need to email your initial setup password in plain
-        text, for this reason once your account is setup we strongly recommend
-        you login and immediately change your passwords which will be hashed and
-        unreadable by us or anyone else. We never share setup passwords and you
-        should never tell us or anybody else your password after setup, we will
-        never ask you for this.
-      </p>
-      <p className="my-8">
-        We provide Single Sign On so you can sign into your client area with a
-        single email+password and use the portal to sign into any of your
-        product cPanels without entering another password. This allows you to
+        We provide Single Sign On so you can sign into all our services with a
+        single account without entering another password. This allows you to
         maintain one single set of secure credentials to access all your
-        services with us.
+        services with us, which may or may not be provided by a third party
+        identity provider.
       </p>
       <p className="my-8">
         Your personal information will be transmitted over an secure encrypted
-        connection when you use our billing systems, portal, cPanel and other
-        service from us.
-      </p>
-      <p className="my-8">
-        Our system administrator&#39;s initial login has limited permissions
-        which requires escalation to become root. Administration is only done on
-        our servers from devices with hard drive encryption which are connected
-        to secure private networks.
+        connection when you use our services.
       </p>
       <p className="my-8">
         We have a strong understanding of Information Security. We use web
@@ -448,12 +430,9 @@ export default function Privacy() {
         affecting system performance and integrity.
       </p>
       <p className="my-8">
-        We take daily backups and regularly restore past backups to test our
-        disaster recovery process.
+        We take backups and test our disaster recovery process.
       </p>
-      <p className="my-8">
-        All our own servers and backups are located in the UK.
-      </p>
+      <p className="my-8">All our databases are located in the UK.</p>
       <hr className="my-8" />
       <h3>Third Parties</h3>
       <p className="my-8">
@@ -467,18 +446,12 @@ export default function Privacy() {
         ourselves.
       </p>
       <p className="my-8">
-        Some third parties help us to take payments and provide you with domains
-        and SSL, in many cases you will provide your data directly to their
+        Some third parties help us to take payments and provide you with
+        services, in some cases you will provide your data directly to their
         servers instead of to us, in these cases they will be the controller of
         your data for that purpose instead of Bubbly Clouds and you will need to
         read their own privacy policy to decide if it adequately protects your
         data.
-      </p>
-      <p className="my-8">
-        Domains use a WHOIS system, if you provide your data for that purpose
-        you should ensure you only provide information you wish to be displayed
-        publicly. SSL Certificates also have a subject portion which can
-        publicly list your company details.
       </p>
       <p className="my-8">
         If you breach our terms of use, or if Bubbly Clouds is under a duty to
@@ -500,10 +473,9 @@ export default function Privacy() {
       </p>
       <h5>Essential; i.e. required to make the website work</h5>
       <p className="my-8">
-        Login session cookies for our client area, cPanel and WHM. These cookies
-        identify you as being logged in to the secure parts of our website for
-        the duration of your visit. Our secure areas will not work unless
-        cookies are enabled.
+        Login session cookies for our services. These cookies identify you as
+        being logged in to the secure parts of our website for the duration of
+        your visit. Our secure areas will not work unless cookies are enabled.
       </p>
       <h5>Non-essential; i.e. that aren’t needed to make the website work</h5>
       <p className="my-8">
@@ -527,7 +499,7 @@ export default function Privacy() {
         information.
       </p>
       <p className="my-8">
-        If you host any material or information that is sensitive, such
+        If you upload any material or information that is sensitive, such
         information and compliance with applicable privacy laws remains solely
         your responsibility.
       </p>
@@ -553,9 +525,9 @@ export default function Privacy() {
       </p>
       <hr className="my-8" />
       <h3>Amendments to this document</h3>
-      We aim to notify you via email of amendments made to this document, if you
-      disagree with any changes made you will be permitted to request a
-      termination of your account.
+      We aim to notify you via email of amendments made to this document but you
+      should check this page for changes, if you disagree with any changes made
+      you will be permitted to request a termination of your account.
     </div>
   );
 }

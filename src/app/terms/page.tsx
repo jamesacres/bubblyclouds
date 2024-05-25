@@ -124,8 +124,8 @@ export default function Terms() {
         </li>
         <li className="my-8">
           You are required to have a unique and strong password protecting each
-          aspect of our services. If you sign in with a third party such as
-          Google you must also keep this account secure.
+          aspect of our services. If you sign in with a third party identity
+          provider such as Google you must also keep this account secure.
         </li>
         <li className="my-8">
           If providing personal data as part of purchasing domains, SSL or other
@@ -272,8 +272,7 @@ export default function Terms() {
           held responsible for disruption and losses in doing so.
         </li>
         <li className="my-8">
-          Your billing control panel and hosting control panel are both to be
-          accessed securely using https.
+          Our services are all to be accessed securely using https.
         </li>
         <li className="my-8">
           We scan all email sent to us and mark any spam, we may sometimes
