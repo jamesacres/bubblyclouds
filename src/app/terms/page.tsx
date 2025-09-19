@@ -3,6 +3,20 @@ import Link from 'next/link';
 export default function Terms() {
   return (
     <div className="container mx-auto my-10 max-w-xl">
+      <p>
+        If the app we developed is downloaded from Apple App Store the terms of
+        use for using that app can be found at{' '}
+        <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">
+          https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+        </a>
+      </p>
+      <hr className="mt-4" />
+      <p className="mt-4">
+        Below are the terms of use specific to signing into the app with Bubbly
+        Clouds and using our APIs.
+      </p>
+      <hr className="mt-4" />
+
       <h1 className="mt-4 text-lg">Bubbly Clouds Terms of Service</h1>
 
       <p className="my-8">
